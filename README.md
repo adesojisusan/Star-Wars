@@ -13,5 +13,5 @@ Run the following command in the root of the project to setup your Android Studi
 This script will configure [ktlint](https://github.com/shyiko/ktlint)
 
 <h2 align="left">Screenshots</h2>
-![Screenshot_20210525_084026](https://user-images.githubusercontent.com/42998872/119479779-e6a80c80-bd48-11eb-87ac-832daf7accf0.png)
+![Screenshot_20210525_084026](https://user-images.githubusercontent.com/42998872/119479779-e6a80c80-bd48-11eb-87ac-832daf7accf0.png) <br>
 ![Screenshot_20210525_084032](https://user-images.githubusercontent.com/42998872/119479802-e9a2fd00-bd48-11eb-9b3d-758d6ea0aa67.png)
