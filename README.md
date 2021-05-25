@@ -13,3 +13,4 @@ Run the following command in the root of the project to setup your Android Studi
 This script will configure [ktlint](https://github.com/shyiko/ktlint)
 
 <h2 align="left">Screenshots</h2>
+https://github.com/adesojisusan/Star-Wars/issues/1#issue-900577014
